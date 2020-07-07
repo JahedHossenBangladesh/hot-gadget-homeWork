@@ -28,3 +28,16 @@
   background-color: rgba(0, 0, 0, 0.03);
   border-top: 1px solid white;
 }
+figcaption {
+  color: rgb(10, 10, 10);
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+.smart-work {
+  padding-top: 150px;
+}
+.perfume {
+  padding-bottom: 60px;
+}
